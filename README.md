@@ -8,7 +8,7 @@ Como criar um podcast usando varias ferramentas de IA para auxiliar nessa jornad
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto PODCAST Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é um repositório desenvolvido durante o curso no qual fui aluna do Bootcamp Santander 2024 na plataforma da [DIO](https://dio.me) com o auxilio do professor [Felipe Aguiar](https://github.com/felipeAguiarCode), inspirada em seu projeto [prompts-for-podcast-generate-by-ia](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia/tree/main).
