@@ -13,8 +13,7 @@ Como criar um podcast usando varias ferramentas de IA para auxiliar nessa jornad
 
  > ℹ️ **NOTE:** Este é um repositório desenvolvido durante o curso no qual fui aluna do Bootcamp Santander 2024 na plataforma da [DIO](https://dio.me) com o auxilio do professor [Felipe Aguiar](https://github.com/felipeAguiarCode), inspirada em seu projeto [prompts-for-podcast-generate-by-ia](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia/tree/main).
 
-Projeto com o objetivo de gerar um Ebook Digital com as facilidades das ferramentas de IA. Todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um Podcast com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
 <a href="Ebook Redes Neuraus Artificiais.pdf" title="View PDF now"> 📕Clique aqui para ler o Ebook</a>
 
