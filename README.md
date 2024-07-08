@@ -3,7 +3,7 @@ Como criar um podcast usando varias ferramentas de IA para auxiliar nessa jornad
 
 <p align="center">
 <img 
-    src="dkfnoieknf.png"
+    src="podcasterwoman4.png"
     width="400"  
 />
 </p>
