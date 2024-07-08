@@ -17,9 +17,9 @@ Projeto com o objetivo de gerar um Podcast com as facilidades das ferramentas de
 
 <a href="https://foamy-mail-abc.notion.site/PAS-Podcast-AI-Studio-e8959203ab974f7a99c4d337752f7ac8" title="View PDF now"> 📕Clique aqui para ver minha page</a>
 
-Veja meu primeiro Podcast sobre Criosidades do universo de Dungeons & Dragons
+Escute meu primeiro Podcast sobre Criosidades do universo de Dungeons & Dragons
 
-<a href="https://file.notion.so/f/f/1c54bdda-8b78-4668-a3d3-6d8748d7af60/66d9c17d-aeb8-4b27-89c4-e8e6260f4da5/podcast_1.mp3?id=0474745d-e2b4-4d9b-a2ae-c999a79135e9&table=block&spaceId=1c54bdda-8b78-4668-a3d3-6d8748d7af60&expirationTimestamp=1720562400000&signature=YI73UB7ECMNhfEZtRxRIu7jgjZ5B-Vt1x4p2J6sTnKY&downloadName=podcast+1.mp3" title="View PDF now"> 🎙️Escute meu podcast</a>
+<a href="https://file.notion.so/f/f/1c54bdda-8b78-4668-a3d3-6d8748d7af60/66d9c17d-aeb8-4b27-89c4-e8e6260f4da5/podcast_1.mp3?id=0474745d-e2b4-4d9b-a2ae-c999a79135e9&table=block&spaceId=1c54bdda-8b78-4668-a3d3-6d8748d7af60&expirationTimestamp=1720562400000&signature=YI73UB7ECMNhfEZtRxRIu7jgjZ5B-Vt1x4p2J6sTnKY&downloadName=podcast+1.mp3" title="View PDF now"> 🎙️Podcast 001 - Curiosidades</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
