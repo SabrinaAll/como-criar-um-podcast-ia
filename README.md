@@ -38,19 +38,17 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Você é um roteirista de podcast, e vamos criar um podcast de RPG, focado em Dungeons & Dragons e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast sobre regras de RPG de mesa feito por nerds, e que tenha algum trocadilho de dungeons and dragons no nome O podcast vai falar sobre dicas e novidades sobre o mundo de dungeons and dragons e o que está acontecendo no mercado de jogos de mesa, além de tirar dúvidas de como jogar RPG de mesa {REGRAS} - O nome deve ser enxuto, um nome e um subtítulo - O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como harry potter, star wars ou senhor dos anéis - O nome deve conter alguma palavra forte que remeta a dungeons and dragons {REGRAS NEGATIVAS} - Não quero que utilize nenhuma das palavras nessa lista: programador - Não utilize a palavra dungeons and dragons no nome nem qualquer variação dela                                                        |
-| conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de RPG, focado em Dungeons & Dragons cujo o nome é "Quest Keepers: Exploração e Mistérios de RPG" e tem foco em RPG de mesa Dungeons and Dragons, com o público alvo de iniciantes em RPG de mesa.
-o formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]
-{REGRAS}
-    • no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'World of Warcraft Brasil', como se fossem escritos por um Game Master em Dungeons &  Dragons
-    • no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Dungeons and Dragons
-    • no bloco [CURIOSIDADE 2] sobre ferramentas e habilidades no RPG
-    • no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Organa e esse foi o Quest Keepers dessa semana' 
-    • use termos de fácil explicação 
-    • O podcast vai ser apresentado somente por uma pessoa, chamada Organa 
-    • O podcast deve ser curto 
-{REGRAS NEGATIVAS}
-    • Não use muitos termos técnicos 
-    • Não ultrapasse 5 minutos de duração |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de RPG, focado em Dungeons & Dragons cujo o nome é "Quest Keepers: Exploração e Mistérios de RPG" e tem foco em RPG de mesa Dungeons and Dragons, com o público alvo de iniciantes em RPG de mesa. o formato do roteiro deve ser 'INTRODUÇÃO' 'CURIOSIDADE 1' 'CURIOSIDADE 2' 'FINALIZAÇÃO' {REGRAS}
+- no bloco 'INTRODUÇÃO' substitua por uma introdução iguais as introduções dos vídeos do canal 'World of Warcraft Brasil', como se fossem escritos por um Game Master em Dungeons &  Dragons
+- no bloco 'CURIOSIDADE 1' substitua por uma curiosidade de Dungeons and Dragons
+- no bloco 'CURIOSIDADE 2' sobre ferramentas e habilidades no RPG
+- no bloco 'FINALIZAÇÃO' substitua por uma despedida cool com o final 'Eu sou a Organa e esse foi o Quest Keepers dessa semana' 
+- use termos de fácil explicação 
+- O podcast vai ser apresentado somente por uma pessoa, chamada Organa 
+- O podcast deve ser curto {REGRAS NEGATIVAS}
+- Não use muitos termos técnicos 
+- Não ultrapasse 5 minutos de duração |
+
 DALL-E 3：
 
 |  Ação  | prompt                                                                                 |
